@@ -1,0 +1,35 @@
+.text_nav{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.text_nav2{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.nav{
+    display: flex;
+}
+.nav2{
+    display: flex;
+    margin-top: 30px;
+}
+.text_nav2:hover{
+    cursor: pointer;
+    color: blue;
+    transition: 1s;
+}
+.text_nav:hover{
+    cursor: pointer;
+    color: blue;
+    transition: 1s;
+}
+.img_nav:hover{
+  cursor: pointer;
+  box-shadow: 5px 5px 5px 5px;
+}
+.img_nav2:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px 5px;
+  }
